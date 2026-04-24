@@ -32,7 +32,7 @@ const Footer = () => {
         <div className="flex flex-col items-start">
           <div className="flex items-center gap-3 mb-4">
             <img
-              src="/images/inslogo.jpg"
+              src="/images/inslogo.png"
               alt="Inscribe Logo"
               className="w-16 h-16 rounded-xl object-cover"
               onError={(e) => {

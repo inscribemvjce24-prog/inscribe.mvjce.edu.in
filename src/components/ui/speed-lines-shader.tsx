@@ -32,7 +32,7 @@ float mirrored(float t,float shift){ t=fract(t+shift); return 2.0*abs(t-0.5); }
 float radialLayer(float angle,float radius){
   const float SCALE=84.0;
   radius=pow(radius,0.01);
-  float offset=-uTime*0.06;
+  float offset=-uTime*0.02;
   vec2 pos=vec2(mirrored(angle,0.1),radius+offset);
   float n1=noise2d(pos*SCALE);
   pos=2.1*vec2(mirrored(angle,0.4),radius+offset);
@@ -51,7 +51,7 @@ vec3 applyColor(float v){
 
 void main(){
   vec2 R=uResolution.xy;
-  vec2 uv=(gl_FragCoord.xy*2.0-R)/R.y*0.075;
+  vec2 uv=(gl_FragCoord.xy*2.0-R)/R.y*0.12;
   float dist=dot(uv,uv);
   float ang=atan(uv.y,uv.x)/6.28318530718;
   float val=radialLayer(ang,dist);

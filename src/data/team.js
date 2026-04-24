@@ -524,7 +524,7 @@ export const teamMembers = [
       {
         id: 50,
         name: "Punith M",
-        image: "/images/PUNITH.png",
+        image: "/images/PUNITH.jpeg",
         social: {
           instagram: "https://www.instagram.com/inscribe.mvjce?igsh=MW90c3Aza250bHV0Ng==",
           github: "https://github.com/Punith7z",
