@@ -9,7 +9,7 @@ export const facultyCoordinator = [
     social: {
       linkedin: "https://www.linkedin.com/in/veena-k-5a135b19a?trk=contact-info",
       github: "https://github.com/inscribemvjce24-prog",
-      instagram: "https://www.instagram.com/inscribe_mvjce",
+      instagram: "https://www.instagram.com/inscribe.mvjce?igsh=MTVwNG94MTRjb3gxNg==",
     }
   }
 ]
