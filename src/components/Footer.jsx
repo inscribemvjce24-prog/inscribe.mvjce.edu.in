@@ -143,7 +143,7 @@ const Footer = () => {
           </h4>
           <div className="flex gap-4">
             <a
-              href="https://www.linkedin.com/company/inscribe-mvjce"
+              href="https://www.linkedin.com/in/inscribe-mvjce24?utm_source=share_via&utm_content=profile&utm_medium=member_android"
               target="_blank"
               rel="noopener noreferrer"
               className="w-10 h-10 glass-social-btn rounded-full flex items-center justify-center transition-all duration-300 ease-in-out hover:scale-110 hover:-translate-y-1 hover:bg-[#0077B5] hover:text-white text-gray-600 dark:text-gray-400"
@@ -159,7 +159,7 @@ const Footer = () => {
               <Github size={16} />
             </a>
             <a
-              href="https://www.instagram.com/inscribe_mvjce"
+              href="https://www.instagram.com/inscribe.mvjce?igsh=MTVwNG94MTRjb3gxNg=="
               target="_blank"
               rel="noopener noreferrer"
               className="w-10 h-10 glass-social-btn rounded-full flex items-center justify-center transition-all duration-300 ease-in-out hover:scale-110 hover:-translate-y-1 hover:bg-gradient-to-r hover:from-[#F58529] hover:via-[#E1306C] hover:to-[#833AB4] hover:text-white text-gray-600 dark:text-gray-400"

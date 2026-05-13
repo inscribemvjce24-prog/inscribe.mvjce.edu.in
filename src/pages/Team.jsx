@@ -14,7 +14,7 @@ const domainConfig = [
     id: 'development',
     title: 'Development',
     subtitle: 'Creating responsive and dynamic web experiences',
-    image: '/images/Development Domain grp photos.jpeg',
+    image: '/images/development group pic .png',
     icon: 'fa-code'
   },
   {
